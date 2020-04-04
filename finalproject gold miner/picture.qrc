@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/bearBackground.jpg</file>
+        <file>picture/blackBackground.jpg</file>
+        <file>picture/goldBackground.jpg</file>
+        <file>picture/playButton.png</file>
+        <file>picture/minerMain.png</file>
+        <file>picture/muteButton.png</file>
+        <file>picture/rulesButton.png</file>
+        <file>picture/returnButton.png</file>
+        <file>picture/startButton.png</file>
+        <file>picture/newgameButton.png</file>
+        <file>picture/caveBackground.jpg</file>
+        <file>picture/dinasourBackground.jpg</file>
+        <file>picture/motionMiner.gif</file>
+        <file>picture/testMiner.png</file>
+        <file>picture/testMinerSmall.png</file>
+        <file>picture/anchor.png</file>
+        <file>picture/small gold.png</file>
+        <file>picture/1 copy.png</file>
+        <file>picture/new anchor.png</file>
+        <file>picture/bomb_end_window.JPG</file>
+        <file>picture/diamond.png</file>
+        <file>picture/bomb.png</file>
+        <file>picture/newdinasourBackground.png</file>
+        <file>picture/returnButton1.png</file>
+        <file>picture/gameOver.jpg</file>
+        <file>picture/ccc.png</file>
+        <file>picture/alarmClock.png</file>
+        <file>picture/muteButton copy.png</file>
+        <file>picture/win.jpg</file>
+        <file>picture/instruction2.jpg</file>
+        <file>picture/instruction3.jpg</file>
+    </qresource>
+</RCC>
