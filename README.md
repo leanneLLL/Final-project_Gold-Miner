@@ -3,7 +3,7 @@ This is the final project for my PIC 10C class at UCLA.
 
 GOLD MINER
 
-A small mining game built on Qt 
+A mining game built on Qt 
 
 Features:
 	1. User can move the miner by left/right arrow key
