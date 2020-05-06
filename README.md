@@ -1,4 +1,6 @@
 # Finaal-project_Gold-Miner
+This is the final project for my PIC 10C class at UCLA. 
+
 GOLD MINER
 
 A small mining game built on Qt 
