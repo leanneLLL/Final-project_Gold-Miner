@@ -1,4 +1,4 @@
-# Finaal-project_Gold-Miner
+# Final-project_Gold-Miner
 This is the final project for my PIC 10C class at UCLA. 
 
 GOLD MINER
