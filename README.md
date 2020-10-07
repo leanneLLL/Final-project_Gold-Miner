@@ -8,7 +8,9 @@ The game's goal is to collect gold nuggets and diamonds underground at each leve
 
 We used Qt Design Studio to design the user interface prototypes and developed the program in Qt Creator to realize the functionalities.
 
-We re-designed the object generating feature and reward system based on playing time and player movement to provide a standardized, inheritable interface for all current and future character types.
+We re-designed the object generating feature and reward system based on playing time and player movement to provide a standardized, 
+
+inheritable interface for all current and future character types.
 
 ### Built With
 The game was developed using C++ and Qt Creator. 
