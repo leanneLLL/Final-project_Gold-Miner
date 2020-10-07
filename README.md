@@ -1,15 +1,4 @@
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://raw.githubusercontent.com/leanneLLL/game-gold-miner/master/finalproject%20gold%20miner/picture/testMiner.png" alt="Logo" width="70" height="70">
-  </a>
-  <h3 style = "text-align: center>GOLD MINER</h3>
-  <h6 text-align: center;> Recreation of the classic play! </h6>
-</p>
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 This is a desktop single-player puzzle game that allows users to perform gold-digging and mining actions. 
 
