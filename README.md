@@ -12,7 +12,7 @@ We re-designed the object generating feature and reward system based on playing 
 
 inheritable interface for all current and future character types.
 
-### Built With
+## Built With
 The game was developed using C++ and Qt Creator. 
 * [Qt Creator](https://www.qt.io/product/development-tools)
 
