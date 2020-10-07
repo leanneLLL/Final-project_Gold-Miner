@@ -3,23 +3,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://raw.githubusercontent.com/leanneLLL/game-gold-miner/master/finalproject%20gold%20miner/picture/testMiner.png" alt="Logo" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/leanneLLL/game-gold-miner/master/finalproject%20gold%20miner/picture/testMiner.png" alt="Logo" width="70" height="70">
   </a>
-
-  <h3 align="center">GOLD MINER</h3>
-
-  <p align="center">
-    Recreation of the classic play!
-    <br />
-<!--     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a> -->
-    <br />
-    <br />
-<!--     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
-    ·
-<!--     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a> -->
-    ·
-<!--     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
-  </p>
+  <h3 style = "text-align: center>GOLD MINER</h3>
+  <h6 text-align: center;> Recreation of the classic play! </h6>
 </p>
 
 <!-- ABOUT THE PROJECT -->
@@ -43,5 +30,3 @@ The game was developed using C++ and Qt Creator.
 ![sc2](https://raw.githubusercontent.com/leanneLLL/game-gold-miner/master/Demo%20Screenshots/game1.png)
 ![sc3](https://raw.githubusercontent.com/leanneLLL/game-gold-miner/master/Demo%20Screenshots/winPage.png)
 ![sc4](https://raw.githubusercontent.com/leanneLLL/game-gold-miner/master/Demo%20Screenshots/instruction%26rules.png)
-
-
