@@ -30,6 +30,7 @@
 ![sc4](https://raw.githubusercontent.com/leanneLLL/game-gold-miner/master/Demo%20Screenshots/instruction%26rules.png)
 
 This is a desktop single-player puzzle game that allows users to perform gold-digging and mining actions. 
+
 It is a recreation of the classic play the "Gold Miner" with new themes, more levels, and more targets to mine.  
 
 The game's goal is to collect gold nuggets and diamonds underground at each level and avoid bombs if you can. 
